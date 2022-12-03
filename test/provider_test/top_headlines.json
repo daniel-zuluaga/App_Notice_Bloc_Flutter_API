@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 68,
+    "articles": [
+            {
+                "source": {
+                "id": null,
+                "name": "CNBC"
+                },
+                "author": "Samantha Subin",
+                "title": "Stocks making the biggest moves midday: Salesforce, Five Below, Okta, Costco and more - CNBC",
+                "description": "These are the stocks posting the largest moves in midday trading.",
+                "url": "https://www.cnbc.com/2022/12/01/stocks-making-the-biggest-moves-midday-salesforce-five-below-okta-costco.html",
+                "urlToImage": "https://image.cnbcfm.com/api/v1/image/107067738-16535840452022-05-23t002415z_1398146421_rc2ckf9mfhu7_rtrmadp_0_costco-wholesale-results.jpeg?v=1669917469&w=1920&h=1080",
+                "publishedAt": "2022-12-01T17:57:49Z",
+                "content": "Check out the companies making headlines in midday trading.\r\nSalesforce Shares of the cloud-based software company slid more than 9% after the firm announced the sudden departure of co-CEO Bret Taylo… [+3953 chars]"
+            },
+            {
+                "source": {
+                "id": null,
+                "name": "Investor's Business Daily"
+                },
+                "author": "Investor's Business Daily",
+                "title": "Tesla Stock Burned As Musk Goes Ballistic on Twitter - Investor's Business Daily",
+                "description": "Tesla stock has dropped about 30% since Elon Musk completed his acquisition of Twitter as advertisers have exited the platform.",
+                "url": "https://www.investors.com/news/technology/tesla-stock-burned-as-musk-goes-ballistic-on-twitter/",
+                "urlToImage": "https://www.investors.com/wp-content/uploads/2020/07/Stock-elonmusk-03-shutt.jpg",
+                "publishedAt": "2022-12-01T17:38:00Z",
+                "content": "Elon Musk's advocacy of unfettered speech on Twitter and his dismantling of content moderation on the social media site has caused a growing number of consumers to turn sour on Musk's Tesla (TSLA) br… [+3372 chars]"
+                },
+            {
+                "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+                },
+                "author": null,
+                "title": "Blackstone's $69 Billion Real Estate Fund Hits Redemption Limit - Bloomberg",
+                "description": null,
+                "url": "https://www.bloomberg.com/tosv2.html?vid=&uuid=62f12793-71aa-11ed-81a4-576f61615747&url=L25ld3MvYXJ0aWNsZXMvMjAyMi0xMi0wMS9ibGFja3N0b25lLXJlYWwtZXN0YXRlLWZ1bmQtdG9wcy1saW1pdC1mb3ItcmVkZW1wdGlvbi1yZXF1ZXN0cw==",
+                "urlToImage": null,
+                "publishedAt": "2022-12-01T17:31:24Z",
+                "content": "To continue, please click the box below to let us know you're not a robot."
+            },
+            {
+                "source": {
+                "id": null,
+                "name": "The Guardian"
+                },
+                "author": "Gloria Oladipo",
+                "title": "Musk says brain chip to begin human trials soon – and plans to get one himself - The Guardian",
+                "description": "World’s richest man says human trials will begin within six months during presentation at health tech company Neuralink",
+                "url": "https://www.theguardian.com/technology/2022/dec/01/elon-musk-brain-chip-human-trials-nueralink",
+                "urlToImage": "https://i.guim.co.uk/img/media/93a3208a28f4e1eb0dc730b598619413ec8507dc/60_0_2474_1486/master/2474.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=763f58bc2f894168d29c6c9e17043b34",
+                "publishedAt": "2022-12-01T17:31:00Z",
+                "content": "Elon Musk said on Wednesday he expects a brain chip developed by his health tech company to begin human trials in the next six months.\r\nDuring a presentation by Musks company Neuralink, Musk gave upd… [+1366 chars]"
+            },
+            {
+                "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+                },
+                "author": "Ben Eisen",
+                "title": "Mortgage Rates Have Biggest Three-Week Drop Since 2008 - The Wall Street Journal",
+                "description": "The Wall Street Journal’s full markets coverage.",
+                "url": "https://www.wsj.com/livecoverage/stock-market-news-today-12-01-2022",
+                "urlToImage": "https://images.wsj.net/im-677121?width=600",
+                "publishedAt": "2022-12-01T17:02:03Z",
+                "content": null
+            },
+            {
+                "source": {
+                "id": null,
+                "name": "Electrek"
+                },
+                "author": "Fred Lambert",
+                "title": "Tesla chief designer talks Cybertruck and teases upcoming new EV - Electrek",
+                "description": "Tesla Chief Designer Franz von Holzhausen gave a rare interview where he discussed the Cybertruck design and teased a new Tesla model.",
+                "url": "https://electrek.co/2022/12/01/tesla-chief-designer-cybertruck-teases-upcoming-new-ev/",
+                "urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/06/Tesla-Cybertruck-Moss-Landing-KSBW-Jerrett-Knapp-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+                "publishedAt": "2022-12-01T16:25:00Z",
+                "content": "Tesla chief designer Franz von Holzhausen gave a rare interview where he discussed the Cybertruck design and teased an upcoming new Tesla model.\r\nAt Tesla, it’s fairly rare for executives not named “… [+2994 chars]"
+            },
+            {
+                "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+                },
+                "author": "Brian Sozzi",
+                "title": "Former Cisco CEO weighs in on Elon Musk's Twitter leadership playbook - Yahoo Finance",
+                "description": "Is Elon Musk running Twitter right in the early days?",
+                "url": "https://finance.yahoo.com/news/former-cisco-ceo-weighs-in-on-elon-musks-twitter-leadership-playbook-154700196.html",
+                "urlToImage": "https://s.yimg.com/ny/api/res/1.2/HYIfUKHVJ6XNthJGiyFbAw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-images/2019-07/0e4e6da0-a8a2-11e9-bffe-de045de8cb3e",
+                "publishedAt": "2022-12-01T15:47:44Z",
+                "content": "Former longtime Cisco CEO John Chambers has mixed emotions about how Elon Musk has led Twitter in his early days of owning the social media platform.\r\n\"Almost everything he did on the acquisition of … [+2439 chars]"
+            },
+            {
+                "source": {
+                "id": null,
+                "name": "Investor's Business Daily"
+                },
+                "author": "Investor's Business Daily",
+                "title": "SNOW Stock Tumbles As Snowflake Offers Weak Product Revenue Guidance | Investor's Business Daily - Investor's Business Daily",
+                "description": "SNOW stock tumbled after Snowflake earnings for the third quarter met expectations but product revenue guidance missed expectations.",
+                "url": "https://www.investors.com/news/technology/snow-stock-snowflake-earnings-snowflake-stock-q32022/",
+                "urlToImage": "https://www.investors.com/wp-content/uploads/2020/09/Stock-Snowflake-01-shutt.jpg",
+                "publishedAt": "2022-12-01T15:25:00Z",
+                "content": "Snowflake (SNOW) reported third-quarter earnings that met expectations while revenue topped Wall Street targets. The enterprise software maker's product revenue guidance came in below expectations. S… [+2566 chars]"
+            },
+            {
+                "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+                },
+                "author": "Pras Subramanian",
+                "title": "Tesla still the top EV brand in the U.S., but its lead is shrinking - Yahoo Finance",
+                "description": "Despite Tesla sitting atop the EV leaderboard in the U.S., new data shows competitors are chipping away at its lead.",
+                "url": "https://finance.yahoo.com/news/tesla-still-the-top-ev-brand-in-the-us-but-its-lead-is-shrinking-151636641.html",
+                "urlToImage": "https://s.yimg.com/ny/api/res/1.2/lD40Lhl.iZczULHPornITw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-09/d81c4aa0-3a79-11ed-ac2b-bc849d6c5a43",
+                "publishedAt": "2022-12-01T15:16:36Z",
+                "content": "Despite Tesla (TSLA) sitting atop the EV leaderboard in the U.S., new data shows competitors are chipping away at its lead.\r\nS&amp;P Global Mobilitys latest report on U.S. EV market share shows Tesla… [+3473 chars]"
+            },
+            {
+                "source": {
+                "id": null,
+                "name": "TMZ"
+                },
+                "author": "TMZ Staff",
+                "title": "Antisemitic Film Kyrie Irving Shared Not Coming Down, Says Amazon CEO - TMZ",
+                "description": "Amazon CEO Andy Jassy says the antisemitic film Kyrie Irving shared on Twitter will not be removed from the platform.",
+                "url": "https://www.tmz.com/2022/12/01/kyrie-irving-antisemitic-film-hebrews-to-negroes-movie-shared-not-coming-down-says-amazon-ceo/",
+                "urlToImage": "https://imagez.tmz.com/image/76/16by9/2022/12/01/762f41d4a6bc47cb935631971e020a40_xl.jpg",
+                "publishedAt": "2022-12-01T15:15:00Z",
+                "content": "The controversial, antisemitic film Kyrie Irving shared on Twitter -- \"Hebrews to Negroes: Wake Up Black America!\" -- is not being removed from Amazon ... says company CEO Andy Jassy.\r\n\"As a retailer… [+1251 chars]"
+            },
+            {
+                "source": {
+                "id": "cnn",
+                "name": "CNN"
+                },
+                "author": "Chris Isidore",
+                "title": "The Fed's favorite inflation measure cooled in October - CNN",
+                "description": "A key measure of consumer prices slowed somewhat in October, another hopeful sign that inflation pressures could be moderating.",
+                "url": "https://www.cnn.com/2022/12/01/economy/pce-inflation-report-october/index.html",
+                "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221130161539-us-inflation-report-october-restricted.jpg?c=16x9&q=w_800,c_fill",
+                "publishedAt": "2022-12-01T14:57:00Z",
+                "content": "A key measure of consumer prices slowed somewhat in October, another hopeful sign that inflation pressures could be moderating.\r\nThe Personal Consumption Expenditures price index, or PCE, rose 6% in … [+3454 chars]"
+            },
+            {
+                "source": {
+                "id": null,
+                "name": "Fox Business"
+                },
+                "author": "Nikolas Lanum",
+                "title": "Mark Zuckerberg slams Apple amid company's feud with Elon Musk: 'Conflict of interest' - Fox Business",
+                "description": "Mark Zuckerberg, the CEO of Meta, criticized Apple for their content moderation policies, citing a 'conflict of interest' in how they conduct business.",
+                "url": "https://www.foxbusiness.com/media/mark-zuckerberg-apple-companys-feud-elon-musk-conflict-interest",
+                "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2022/12/0/0/elon-musk-zuckerberg-apple.png?ve=1&tl=1",
+                "publishedAt": "2022-12-01T14:54:21Z",
+                "content": "Meta CEO Mark Zuckerberg called out Apple on Wednesday over the company’s nearly singular control over cellphone applications amidst an ongoing feud between Apple and Twitter CEO Elon Musk.\r\nDuring a… [+2223 chars]"
+            },
+            {
+                "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+                },
+                "author": "Alexandra Semenova",
+                "title": "Stock market news live updates: Stocks waver after lighter reading on Fed's key inflation gauge - Yahoo Finance",
+                "description": "U.S. stocks wobbled at Thursday's open as December trading commenced, despite signs of easing inflation and signals of a slower pace and magnitude of rate...",
+                "url": "https://finance.yahoo.com/news/stock-market-news-live-updates-december-1-2022-125313731.html",
+                "urlToImage": "https://s.yimg.com/ny/api/res/1.2/jd6gYkDLXv9GHWOlSlFaig--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-12/b24e2380-716e-11ed-ab7e-ae08ab68cd9c",
+                "publishedAt": "2022-12-01T14:40:34Z",
+                "content": "U.S. stocks wobbled at Thursday's open as December trading commenced, despite signs of easing inflation and signals of a slower pace and magnitude of rate increases as soon as this month.\r\nThe S&amp;… [+3556 chars]"
+            },
+            {
+                "source": {
+                "id": null,
+                "name": "Gothamist"
+                },
+                "author": "https://gothamist.com/staff/stephen-nessen",
+                "title": "MTA plans 5.5% fare hike next year, needs $600M more to plug deficit - Gothamist",
+                "description": "Gothamist is a non-profit local newsroom, powered by WNYC.",
+                "url": "https://gothamist.com/news/mta-plans-55-fare-hike-next-year-needs-600m-more-to-plug-deficit",
+                "urlToImage": "https://cms.prod.nypr.digital/images/329208/fill-1200x650|format-jpeg|jpegquality-85",
+                "publishedAt": "2022-12-01T14:40:00Z",
+                "content": "The MTA plans to raise fares and tolls by 5.5% next June to help plug a major budget deficit caused by dwindling ridership since the start of the pandemic, officials announced on Wednesday.\r\nThe hike… [+3935 chars]"
+            },
+            {
+                "source": {
+                "id": null,
+                "name": "CNBC"
+                },
+                "author": "Morgan Smith",
+                "title": "The 10 best states to find a job right now, according to new research - CNBC",
+                "description": "WalletHub ranked all 50 states based on 35 metrics including job opportunities, unemployment rate and  median annual income.",
+                "url": "https://www.cnbc.com/2022/12/01/-the-10-best-states-to-find-a-job-right-now-according-to-new-research.html",
+                "urlToImage": "https://image.cnbcfm.com/api/v1/image/107159197-1669833496170-gettyimages-1051385276-denver78.jpeg?v=1669905001&w=1920&h=1080",
+                "publishedAt": "2022-12-01T14:30:01Z",
+                "content": "Is now still a good time to find a job? \r\nThe answer might depend on where you live. \r\nDespite amplified recession fears and headlines of mass layoffs at tech companies, overall layoffs in the job ma… [+2817 chars]"
+            },
+            {
+                "source": {
+                "id": "financial-times",
+                "name": "Financial Times"
+                },
+                "author": "Hannah Murphy, Patrick McGee",
+                "title": "Elon Musk appears to reconcile with Apple after Twitter tirade - Ars Technica",
+                "description": "Billionaire says he has resolved ‘misunderstanding’ that social media platform could be dropped from App Store",
+                "url": "https://www.ft.com/content/d691b35e-04e2-45eb-a3f0-1a69ea50cd40",
+                "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F74eac46a-2a57-44ab-a56f-8228d22c0bad.jpg?source=next-opengraph&fit=scale-down&width=900",
+                "publishedAt": "2022-12-01T14:24:54Z",
+                "content": "Elon Musk said he had a good conversation with Apple chief executive Tim Cook and resolved the misunderstanding about his claim that Twitter could be removed from the App Store, just days after the w… [+3338 chars]"
+            },
+            {
+                "source": {
+                "id": "reuters",
+                "name": "Reuters"
+                },
+                "author": null,
+                "title": "Florida pulls $2 bln from BlackRock in largest anti-ESG divestment - Reuters",
+                "description": "Florida's Chief Financial Officer said on Thursday his department would pull $2 billion worth of its assets managed by BlackRock Inc <a href=\"https://www.reuters.com/companies/BLK.N\" target=\"_blank\">(BLK.N)</a>, the biggest such divestment by a state opposed …",
+                "url": "https://www.reuters.com/business/finance/florida-pulls-2-bln-blackrock-largest-anti-esg-divestment-2022-12-01/",
+                "urlToImage": "https://www.reuters.com/resizer/Pv2mZVfcm6pA6OscSeS2TlaMBK0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/UDCHGBX6GBKFJMGLOG2COZIKWA.jpg",
+                "publishedAt": "2022-12-01T14:20:00Z",
+                "content": "Dec 1 (Reuters) - Florida's Chief Financial Officer said on Thursday his department would pull $2 billion worth of its assets managed by BlackRock Inc (BLK.N), the biggest such divestment by a state … [+2909 chars]"
+            },
+            {
+                "source": {
+                "id": null,
+                "name": "CNBC"
+                },
+                "author": "Jeff Marks, Jim Cramer",
+                "title": "We're locking in a big profit on our favorite retail stock after softer sales figures - CNBC",
+                "description": "We're turning a little more cautious about the name in the short term just in case November marks the beginning of a comparable sales slowdown.",
+                "url": "https://www.cnbc.com/2022/12/01/were-locking-in-a-big-profit-on-our-favorite-retail-stock-ahead-of-next-weeks-earnings.html",
+                "urlToImage": "https://image.cnbcfm.com/api/v1/image/107156802-1669336543482-gettyimages-510724626-NYSE_STOCKS.jpeg?v=1669903034&w=1920&h=1080",
+                "publishedAt": "2022-12-01T13:51:18Z",
+                "content": null
+            },
+                {
+                "source": {
+                "id": null,
+                "name": "CNBC"
+                },
+                "author": "Kate Dore, CFP®",
+                "title": "'It's a work in progress.' How Covid has changed the life insurance marketplace - CNBC",
+                "description": "Demand for life insurance has soared during the pandemic. But the industry is still grappling with how Covid-19 may affect underwriting assumptions.",
+                "url": "https://www.cnbc.com/2022/12/01/how-covid-has-changed-life-insurance-underwriting.html",
+                "urlToImage": "https://image.cnbcfm.com/api/v1/image/106830637-16117500902021-01-27t015804z_1001534014_rc21gl9y09fs_rtrmadp_0_health-coronavirus-usa.jpeg?v=1669901401&w=1920&h=1080",
+                "publishedAt": "2022-12-01T13:30:01Z",
+                "content": "Family and friends gather in San Felipe, Texas, for the Jan. 26, 2021, funeral of Gregory Blanks, 50, who died of Covid-19.\r\nAs Americans brace for the third winter of the Covid-19 pandemic, many are… [+6563 chars]"
+            },
+            {
+                "source": {
+                "id": null,
+                "name": "Investor's Business Daily"
+                },
+                "author": "Investor's Business Daily",
+                "title": "Futures: Inflation Data Due After S&P 500 Surges Above 200-Day - Investor's Business Daily",
+                "description": "The market rally had a bullish day, but inflation data is on tap.",
+                "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-inflation-report-due-after-sp-500-surges-above-200-day-on-fed-chief-powell/",
+                "urlToImage": "https://www.investors.com/wp-content/uploads/2022/06/Stock-jeromepowell2022-02-gov.jpg",
+                "publishedAt": "2022-12-01T13:21:00Z",
+                "content": "Dow Jones futures tilted higher Thursday morning, along with S&amp;P 500 futures and Nasdaq futures. Salesforce.com headlined earnings overnight but investor focus will be on Thursday's PCE inflation… [+8937 chars]"
+            }
+        ]
+    }

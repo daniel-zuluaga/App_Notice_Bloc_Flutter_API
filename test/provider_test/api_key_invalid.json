@@ -1,0 +1,5 @@
+{
+"status": "error",
+"code": "apiKeyInvalid",
+"message": " Your API key is missing from the request. Append it to the request "
+}
