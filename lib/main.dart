@@ -1,7 +1,22 @@
+import 'package:app_notice_bloc_flutter/src/navigation/routes.dart';
+import 'package:app_notice_bloc_flutter/src/provider/news_provider.dart';
+import 'package:app_notice_bloc_flutter/src/repository/implementation/news_repository.dart';
+import 'package:app_notice_bloc_flutter/src/repository/news_repository.dart';
+import 'package:app_notice_bloc_flutter/src/ui/news_screen.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter_bloc/flutter_bloc.dart';
 
-void main() => runApp(const MyApp());
+void main() async {
+  final newsProvider = NewsProvider();
+  final newsRepository = NewsRepository(newsProvider);
 
+  runApp(
+    RepositoryProvider<NewsRepositoryBase>(
+      create: (_) => newsRepository,
+      child: MyApp(),
+    ),
+  );
+}
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
@@ -10,14 +25,8 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       title: 'Material App',
-      home: Scaffold(
-        appBar: AppBar(
-          title: const Text('Material App Bar'),
-        ),
-        body: const Center(
-          child: Text('Hello World'),
-        ),
-      ),
+      onGenerateRoute: (settings) => Routes.routes(settings),
+      home: NewsScreen.create(context)
     );
   }
 }

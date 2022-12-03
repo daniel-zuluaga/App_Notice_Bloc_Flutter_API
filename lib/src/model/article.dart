@@ -14,7 +14,14 @@ class Article extends Equatable{
   late final String? content;
   late final String? url;
   
-  Article();
+  Article({
+    required this.title,
+    this.author,
+    this.description,
+    this.urlToImage,
+    this.content,
+    this.url
+  });
 
   factory Article.fromJson(Map<String, dynamic> json) => _$ArticleFromJson(json);
 
