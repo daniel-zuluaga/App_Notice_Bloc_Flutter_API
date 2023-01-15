@@ -2,11 +2,11 @@ import 'package:app_notice_bloc_flutter/src/bloc/news_cubit.dart';
 import 'package:app_notice_bloc_flutter/src/model/article.dart';
 import 'package:app_notice_bloc_flutter/src/navigation/routes.dart';
 import 'package:app_notice_bloc_flutter/src/repository/news_repository.dart';
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
 class NewsScreen extends StatelessWidget {
+  const NewsScreen({super.key});
 
   static Widget create(BuildContext context){
     return BlocProvider<NewsCubit>(
@@ -14,7 +14,7 @@ class NewsScreen extends StatelessWidget {
         final repository = context.read<NewsRepositoryBase>();
         return NewsCubit(repository)..loadTopNews();
       },
-      child: NewsScreen(),
+      child: const NewsScreen(),
     );
   }
 
@@ -23,12 +23,12 @@ class NewsScreen extends StatelessWidget {
     return SafeArea(
       child: Scaffold(
         appBar: AppBar(
-          title: const Text(" Top of News Notice "),
+          title: const Text("Top of News Notice"),
         ),
         body: BlocBuilder<NewsCubit, NewsState>(
           builder: (context, state) {
             if(state is NewsLoadingState){
-              return Center(
+              return const Center(
                 child: CircularProgressIndicator(),
               );
             }
@@ -54,7 +54,6 @@ class _ListItem extends StatelessWidget {
   final Article article;
 
   const _ListItem({
-    super.key, 
     required this.article
   });
 
@@ -67,7 +66,7 @@ class _ListItem extends StatelessWidget {
       child: Card(
          child: Column(
           children: [
-            SizedBox(
+            const SizedBox(
               height: 15,
             ),
     
@@ -77,7 +76,7 @@ class _ListItem extends StatelessWidget {
             ) : Image.network(article.urlToImage!),
     
     
-            SizedBox(
+            const SizedBox(
               height: 12,
             ),
     
@@ -93,14 +92,14 @@ class _ListItem extends StatelessWidget {
               ),
             ),
     
-            SizedBox(
+            const SizedBox(
               height: 10,
             ),
     
             Padding(
               padding: const EdgeInsets.all(12),
               child: Text(
-                article.description?? "",
+                article.description!,
                 maxLines: 3,
                 style: const TextStyle(
                   fontSize: 18,
@@ -109,7 +108,7 @@ class _ListItem extends StatelessWidget {
               ),
             ),
     
-            SizedBox(
+            const SizedBox(
               height: 20,
             ),
           ],

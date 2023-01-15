@@ -29,7 +29,7 @@ class Article extends Equatable{
   Map<String, dynamic> toJson() => _$ArticleToJson(this);
 
     @override
-  // TODO: implement props
+  // implement props
   List<Object?> get props => [title];
 
 }

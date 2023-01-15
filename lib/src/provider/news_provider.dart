@@ -9,8 +9,8 @@ class ApiKeyInvalidException implements Exception{}
 
 class NewsProvider{
 
-  static String _apiKey = "c174557b050f4ef3bd6aa93a8a6cf877";
-  static String _baseUrl = "newsapi.org";
+  static String apiKey = "c174557b050f4ef3bd6aa93a8a6cf877";
+  static String baseUrl = "newsapi.org";
   static String _topHeadLines = "v2/top-headlines";
 
   final http.Client _httpClient;
@@ -23,7 +23,7 @@ class NewsProvider{
         endpoint: _topHeadLines, 
         params: {
           "country": country,
-          "apiKey": _apiKey,
+          "apiKey": apiKey,
       }
     );
     return result.articles;
@@ -33,7 +33,7 @@ class NewsProvider{
     required String endpoint,
     required Map<String, String> params,
   })async{
-    var uri = Uri.https(_baseUrl, endpoint, params);
+    var uri = Uri.https(baseUrl, endpoint, params);
 
     final response = await _httpClient.get(uri);
     final result = ApiResponse.fromJson(json.decode(response.body));

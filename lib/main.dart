@@ -13,7 +13,7 @@ void main() async {
   runApp(
     RepositoryProvider<NewsRepositoryBase>(
       create: (_) => newsRepository,
-      child: MyApp(),
+      child: const MyApp(),
     ),
   );
 }

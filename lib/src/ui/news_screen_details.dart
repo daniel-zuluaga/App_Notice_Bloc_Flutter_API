@@ -1,6 +1,5 @@
 import 'package:app_notice_bloc_flutter/src/model/article.dart';
 import 'package:flutter/material.dart';
-import 'package:url_launcher/url_launcher.dart';
 import 'package:url_launcher/url_launcher_string.dart';
 
 class NewsScreenDetails extends StatelessWidget {
@@ -25,7 +24,7 @@ class NewsScreenDetails extends StatelessWidget {
         ),
         body: Column(
           children: [
-            SizedBox(
+            const SizedBox(
               height: 15,
             ),
     
@@ -35,7 +34,7 @@ class NewsScreenDetails extends StatelessWidget {
             ) : Image.network(article.urlToImage!),
     
     
-            SizedBox(
+            const SizedBox(
               height: 20,
             ),
     
@@ -50,7 +49,7 @@ class NewsScreenDetails extends StatelessWidget {
               ),
             ),
     
-            SizedBox(
+            const SizedBox(
               height: 10,
             ),
     
@@ -65,7 +64,7 @@ class NewsScreenDetails extends StatelessWidget {
               ),
             ),
 
-            SizedBox(
+            const SizedBox(
               height: 15,
             ),
 
@@ -74,7 +73,7 @@ class NewsScreenDetails extends StatelessWidget {
                 // launch(article.url!);
                 launchUrlString(article.url!);
               }, 
-              child: Text("More details")
+              child: const Text("More details")
             ),
           ],
         ),

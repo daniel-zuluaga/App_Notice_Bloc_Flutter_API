@@ -2,7 +2,6 @@ import 'package:app_notice_bloc_flutter/src/model/article.dart';
 import 'package:app_notice_bloc_flutter/src/provider/news_provider.dart';
 import 'package:app_notice_bloc_flutter/src/repository/news_repository.dart';
 import 'package:equatable/equatable.dart';
-import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
 class NewsCubit extends Cubit<NewsState> {
